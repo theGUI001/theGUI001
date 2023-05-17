@@ -2,8 +2,8 @@
 
 <div align="center">
   <a src="https://github.com/theGUI001">
-  <img aling="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img aling="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+  <img aling="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img aling="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&langs_count=10&theme=codeSTACKr"/>
 </div>
 
 ## Linguagens e Frameworks que utilizo:
