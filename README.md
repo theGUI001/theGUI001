@@ -11,7 +11,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
-  <img align="center" height="180em" />
+  <img align="center" height="180em" width='100%' />
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&theme=codeSTACKr"
