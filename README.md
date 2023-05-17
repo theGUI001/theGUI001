@@ -13,10 +13,10 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px&theme=codeSTACKr"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px&bg_color=00000000&theme=great-gatsby"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&card_width=350px&layout=compact" />
   </picture>
@@ -43,7 +43,7 @@
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact&theme=codeSTACKr"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact&bg_color=00000000&theme=great-gatsby"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact" />
   </picture>
