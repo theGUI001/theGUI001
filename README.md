@@ -9,9 +9,8 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=great-gatsby"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&include_all_commits=true&count_private=true" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
-  <img align="center" height="180em" width='1px' diplay='hide'/>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px&theme=codeSTACKr"
@@ -19,7 +18,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px&bg_color=00000000&theme=great-gatsby"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&card_width=350px&layout=compact" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&card_width=350px&layout=compact" />
   </picture>
 
 </div>
