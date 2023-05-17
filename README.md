@@ -13,12 +13,12 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&card_width=350px&theme=codeSTACKr"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&theme=codeSTACKr"
       media="(prefers-color-scheme: dark)" />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&card_width=350px&layout=compact" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact" />
   </picture>
 
 </div>
