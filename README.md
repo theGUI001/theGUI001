@@ -4,7 +4,7 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr"
+      srcset="https://github-readme-stats.vercel.app/api?username=thegui001&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)" />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&include_all_commits=true&count_private=true"
@@ -13,7 +13,7 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact&theme=codeSTACKr"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&theme=codeSTACKr&layout=compact"
       media="(prefers-color-scheme: dark)" />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact"
