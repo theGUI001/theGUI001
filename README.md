@@ -3,21 +3,21 @@
 <div height="180em" width='100%' align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=thegui001&theme=codeSTACKr&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats-thegui001.vercel.app/api?username=thegui001&theme=codeSTACKr&show_icons=true&count_private=true"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats-thegui001.vercel.app/api?username=thegui001&show_icons=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thegui001&show_icons=true&count_private=true" />
+    <img align="center" height="180em" src="https://github-readme-stats-thegui001.vercel.app/api?username=thegui001&show_icons=true&count_private=true" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&theme=codeSTACKr&layout=compact"
+      srcset="https://github-readme-stats-thegui001.vercel.app/api/top-langs/?username=thegui001&theme=codeSTACKr&layout=compact"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact"
+      srcset="https://github-readme-stats-thegui001.vercel.app/api/top-langs/?username=thegui001&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegui001&layout=compact" />
+    <img align="center" height="180em" src="https://github-readme-stats-thegui001.vercel.app/api/top-langs?username=thegui001&layout=compact" />
   </picture>
 </div>
 
