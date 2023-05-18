@@ -38,12 +38,12 @@
 <div align='center' width='100%'>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact&theme=codeSTACKr"
+      srcset="https://github.com/theGUI001api/wakatime?username=theGUI001&layout=compact&theme=codeSTACKr"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact"
+      srcset="https://github.com/theGUI001api/wakatime?username=theGUI001&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=theGUI001&layout=compact" />
+    <img align="center" height="100%" src="https://github.com/theGUI001api/wakatime?username=theGUI001&layout=compact" />
   </picture>
 </div>
   
