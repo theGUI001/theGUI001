@@ -43,7 +43,7 @@
     <source
       srcset="https://github.com/theGUI001api/wakatime?username=theGUI001&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" height="100%" src="https://github.com/theGUI001api/wakatime?username=theGUI001&layout=compact" />
+    <img align="center" height="100%" src="https://github.com/theGUI001/api/wakatime?username=theGUI001&layout=compact" />
   </picture>
 </div>
   
