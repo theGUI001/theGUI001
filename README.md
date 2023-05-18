@@ -17,7 +17,7 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegui001&layout=compact" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegui001&layout=compact" />
   </picture>
 </div>
 
