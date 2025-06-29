@@ -48,6 +48,3 @@
   </picture>
 </div>
   
-##
-  
-![Snake animation](https://github.com/theGUI001/theGUI001/blob/output/github-contribution-grid-snake.svg)
